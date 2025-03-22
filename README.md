@@ -20,6 +20,7 @@ Candidates for this credential should be familiar with Windows Server, core netw
 <h2>Environments Used</h2>
 
 - Hyper-V subsystem to support two Windows Server
+- 
 <h2>Walk-Through</h2>
 
 <p align="center">
